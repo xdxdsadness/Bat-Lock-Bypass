@@ -1,0 +1,11 @@
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS and sync-tool junk
+desktop.ini
+Thumbs.db
+~$*
+
+# Local launchers in the temp directory
+blb-launch-*.ps1
